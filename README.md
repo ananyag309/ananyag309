@@ -30,15 +30,15 @@
 
 <!-- ABOUT ME -->
 
-## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Heya folks, nice to meet you all!
+## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Yo!!! folks, nice to meet you all!
 
 <div align="left">
  
-**My name is Júlio Cézar, I am 20 years old and I am currently studying Systems Analysis and Development. I am focused on developing my career in the programming field, starting with the Front-end and aiming for Full Stack!**
+**Heya I'm Ananya, Currently Pursuing B.Tech in Computer Science!**
 
 **I dedicate my studies to various areas to improve my knowledge and skills, aiming to meet the demands of the job market from the primary requirements of system construction to the ready application of the system.**
 
-**If you need to contact me, I am available via email or whatsapp.**
+**If you need to contact me,**
 
 **📧 Email: [juliocezarpvh@hotmail.com](mailto:juliocezarpvh@hotmail.com)** \
 **📞 My number/WhatsApp: [+55 (69) 99360-6894](http://api.whatsapp.com/send?phone=5569993606894)**
