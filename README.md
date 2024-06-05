@@ -13,7 +13,8 @@
   <img src="https://github.com/ananyag309/ananyag309/blob/main/69b39f6dab8b07dc4b1e5039054b9f50.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
   <br>
   <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</strong></p>
-   
+  <!-- Streak feature -->
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyag309&theme=dark" alt="Ananya's GitHub Streak" /></p>
 </div>
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyag309&theme=github_dark" />
