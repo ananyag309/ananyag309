@@ -8,14 +8,12 @@
   </a>
 </p>
 <div align="center" width="50%">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello World" width="70%"/>
+ 
   <br>
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
   <br>
-  <p><strong>Freelancing & Assisting my father at his shop.<br><br> Vibing to: 🎧</strong></p>
-  <a href="https://open.spotify.com/user/somnathpaul">
-    <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify" />
-  </a>
+  <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</strong></p>
+   
 </div>
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyag309&theme=github_dark" />
