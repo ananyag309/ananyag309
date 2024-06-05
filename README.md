@@ -1,11 +1,8 @@
-<h1 align="center"> Hey There! I'm Ananya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center"> Yo!!! I'm Ananya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center"> <a href="https://www.linkedin.com/in/ananya-gupta-30aa9b28b/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="gaurisha-r-srivastava" height='20' width='90'/> </a>
 <a href="https://github.com/ananyag309"> <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Gaurisha21" height='20' width='80'/>  </a>
 
-A zealous and self-motivated individual, enthusiastically keen to learn and explore. Flexible, reliable, possess excellent time-keeping skills, and always open to new learning opportunities. I have been working and reading extensively in the field of Machine Learning and Deep- Learning
-  
-- 😄 Pronouns: she/her
-- 💬 Ask me about Latest Technologies, Philosphy and latest trends 
+Hey There,
 
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyag309&theme=github_dark" />
