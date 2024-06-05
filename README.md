@@ -9,7 +9,8 @@
 </p>
 <div align="center" width="50%">
  
-  <br>
+  <p> Coding is my love language :) </p>
+
   <img src="https://github.com/ananyag309/ananyag309/blob/main/69b39f6dab8b07dc4b1e5039054b9f50.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
   <br>
   <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</strong></p>
