@@ -34,7 +34,7 @@
 <!-- Contribution in Open Source Programs Section -->
 <h2 align="center">Contribution in Open Source Programs</h2>
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="GirlScript Summer oF Code" width="100" />
+  <img src="https://github.com/ananyag309/ananyag309/blob/main/gssoc.png" alt="GirlScript Summer oF Code" width="100" />
   <img src="https://github.com/ananyag309/ananyag309/blob/main/Ssoc.jpeg" alt="Social Summer of Code" width="100" />
   <!-- Replace the placeholder URLs with the actual badge image URLs -->
 </div>
