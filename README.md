@@ -6,6 +6,9 @@
   <a href="https://github.com/ananyag309"> 
     <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Ananya GitHub" height='20' width='80'/>  
   </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/dc4077c2-a4a3-4d5f-a4c0-646c339a2b5b"> 
+    <img src="https://img.shields.io/static/v1?message=Skill%20Boost&style=for-the-badge&logo=google-cloud&color=4285F4&logoColor=white&label=%20" alt="Ananya Skill Boost Google Profile" height='20' width='80'/>  
+  </a>
 </p>
 <div align="center" width="50%">
  
