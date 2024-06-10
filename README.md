@@ -27,6 +27,6 @@
 <!-- Badges Earned Section -->
 <h2 align="center">Badges Earned</h2>
 <div align="center">
-  <img src="https://github.com/ananyag309/ananyag309/blob/main/explorer badge.png" alt="GSSoC Badge" width="100" />
+  <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="GSSoC Badge" width="100" />
   <!-- Replace the placeholder URL with the actual badge image URL -->
 </div>
