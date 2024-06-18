@@ -36,7 +36,8 @@
 <h2 align="center">Badges Earned</h2>
 <div align="center">
   <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" />
-   <img src="Adventurer Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" />
+  <img src="Adventurer Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" />
+  <img src="Trailblazer Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" />
   <!-- Replace the placeholder URL with the actual badge image URL -->
 </div>
 
