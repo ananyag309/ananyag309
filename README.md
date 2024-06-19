@@ -6,12 +6,6 @@
   <a href="https://github.com/ananyag309"> 
     <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Ananya GitHub" height='20' width='80'/>  
   </a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/dc4077c2-a4a3-4d5f-a4c0-646c339a2b5b"> 
-    <img src="https://img.shields.io/static/v1?message=Skill%20Boost&style=for-the-badge&logo=google-cloud&color=4285F4&logoColor=white&label=%20" alt="Ananya Skill Boost Google Profile" height='20' width='90'/>  
-  </a>
-<a href="https://g.dev/ananyag309"> 
-    <img src="https://img.shields.io/badge/Google%20Developer-6e6e6e?style=for-the-badge&logo=google&logoColor=white" alt="Ananya Google Developer Profile" height='20' width='100'/>  
-</a>
 
 
 </p>
@@ -51,9 +45,27 @@
 
 <!-- Connect with Me Section -->
 <h2 align="center">Connect with Me</h2>
-<a href="https://www.linkedin.com/in/ananya-gupta-30aa9b28b/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+
+<a href="https://www.linkedin.com/in/ananya-gupta-30aa9b28b/" target="_blank" style="margin-right: 10px;">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="40" />
 </a>
-<a href="https://www.tinkercad.com/users/lgvCZ7BWwIF" target="blank">
-  <img align="center" src="https://www.tinkercad.com/favicon.ico" alt="Tinkercad" height="30" width="30" />
+
+<a href="https://github.com/ananyag309" target="_blank" style="margin-right: 10px;">
+  <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" height="40" width="40" />
+</a>
+
+<a href="https://www.cloudskillsboost.google/public_profiles/dc4077c2-a4a3-4d5f-a4c0-646c339a2b5b" target="_blank" style="margin-right: 10px;"> 
+  <img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Ananya Skill Boost Google Profile" height="40" width="40" />  
+</a>
+
+<a href="https://www.tinkercad.com/users/lgvCZ7BWwIF" target="_blank" style="margin-right: 10px;">
+  <img align="center" src="https://www.tinkercad.com/favicon.ico" alt="Tinkercad" height="40" width="40" />
+</a>
+
+<a href="https://wokwi.com/makers/anonzya" target="_blank" style="margin-right: 10px;">
+  <img align="center" src="Wokwi.jpeg" alt="Wokwi Profile" height="40" width="40" />
+</a>
+
+<a href="https://g.dev/ananyag309" target="_blank" style="margin-right: 10px;"> 
+  <img align="center" src="https://www.google.com/favicon.ico" alt="Ananya Google Developer Profile" height="40" width="40" />  
 </a>
