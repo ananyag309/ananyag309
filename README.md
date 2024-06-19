@@ -69,3 +69,7 @@
 <a href="https://g.dev/ananyag309" target="_blank" style="margin-right: 10px;"> 
   <img align="center" src="https://www.google.com/favicon.ico" alt="Ananya Google Developer Profile" height="40" width="40" />  
 </a>
+
+<a href="https://www.hackerrank.com/profile/ananya30g" target="_blank" style="margin-right: 10px;">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank Profile" height="50" width="50" />
+</a>
