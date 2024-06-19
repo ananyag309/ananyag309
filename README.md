@@ -48,3 +48,12 @@
   <img src="https://github.com/ananyag309/ananyag309/blob/main/Ssoc.jpeg" alt="Social Summer of Code" width="100" />
   <!-- Replace the placeholder URLs with the actual badge image URLs -->
 </div>
+
+<!-- Connect with Me Section -->
+<h2 align="center">Connect with Me</h2>
+<a href="https://www.linkedin.com/in/ananya-gupta-30aa9b28b/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+</a>
+<a href="https://www.tinkercad.com/users/lgvCZ7BWwIF" target="blank">
+  <img align="center" src="https://www.tinkercad.com/favicon.ico" alt="Tinkercad" height="30" width="30" />
+</a>
