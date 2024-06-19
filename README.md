@@ -58,7 +58,7 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Ananya Skill Boost Google Profile" height="40" width="40" />  
 </a>
 
-<a href="https://www.tinkercad.com/users/lgvCZ7BWwIF" target="_blank" style="margin-right: 10px;">
+<!-- <a href="https://www.tinkercad.com/users/lgvCZ7BWwIF" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://www.tinkercad.com/favicon.ico" alt="Tinkercad" height="40" width="40" />
 </a>
 
@@ -73,3 +73,5 @@
 <a href="https://www.hackerrank.com/profile/ananya30g" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank Profile" height="50" width="50" />
 </a>
+
+-->
