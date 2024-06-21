@@ -26,6 +26,13 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananyag309&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananyag309&theme=github_dark" />
 </div>
+<br>
+<h2 align="center">Github Achievements</h2>
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ananyag309&theme=darkhub&column=10&margin-w=13" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
+</div>
+<br>
 <!-- Badges Earned Section -->
 <h2 align="center">Badges Earned</h2>
 <div align="center">
