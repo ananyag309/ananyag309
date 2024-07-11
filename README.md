@@ -6,9 +6,12 @@
   <a href="https://github.com/ananyag309"> 
     <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Ananya GitHub" height='20' width='80'/>  
   </a>
-
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ananyag309&style=flat-square&color=blue" alt="GitHub Profile Views"/>
+</div>
 
 </p>
+
 <div align="center" width="50%">
  
   <p> Coding is my love language :) </p>
@@ -33,6 +36,7 @@
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=ananyag309&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 </div>
+
 <br>
 <h3> Languages, Tools and Technologies 🚀 </h3>
 <table>
