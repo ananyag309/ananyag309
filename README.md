@@ -6,10 +6,11 @@
   <a href="https://github.com/ananyag309"> 
     <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Ananya GitHub" height='20' width='80'/>  
   </a>
+<!-- 
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ananyag309&style=flat-square&color=blue" alt="GitHub Profile Views"/>
 </div>
-
+-->
 </p>
 
 <div align="center" width="50%">
