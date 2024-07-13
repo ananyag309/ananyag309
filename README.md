@@ -79,6 +79,7 @@
   <img src="Champion Badge.png" alt="GSSoC'24 Champion Badge" width="100" />
   <img src="Trailblazer Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" />
   <img src="Summit Seeker Badge.png" alt="GSSoC'24  Summit Seeker Badge" width="100" />
+  <img src="Innovator Bage.png" alt="GSSoC'24 Innovator Badge" width="105" />
   <!-- Replace the placeholder URL with the actual badge image URL -->
 </div>
 
