@@ -18,65 +18,32 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyag309&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananyag309&theme=tokyonight"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananyag309&theme=tokyonight"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananyag309&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananyag309&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyag309&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananyag309&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananyag309&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananyag309&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananyag309&theme=github_dark" />
 </div>
-<br>
 
+<br>
 <div align="center">
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=ananyag309&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 </div>
 
 <br>
-<h3> Languages, Tools and Technologies 🚀 </h3>
-<table>
-	<tr>
-	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
-</tr>
-<tr>
-	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
-</tr>
- 
-<tr>
-	<td><strong>Frameworks</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
-</tr>
-
-<tr>
-	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab&theme=dark"></td>
-</tr>
-
-</table>
-
-<br>
-<!-- Badges Earned Section -->
-<h2 align="center">Badges Earned</h2>
+<h3 align="center"> Badges Earned 🏅 </h3>
 <div align="center">
-  <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" />
-  <img src="Adventurer Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" />
-  <img src="Champion Badge.png" alt="GSSoC'24 Champion Badge" width="100" />
-  <img src="Trailblazer Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" />
-  <img src="Summit Seeker Badge.png" alt="GSSoC'24  Summit Seeker Badge" width="100" />
-  <img src="Innovator Bage.png" alt="GSSoC'24 Innovator Badge" width="105" />
+  <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" style="margin: 10px;" />
+  <img src="Adventurer Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" style="margin: 10px;" />
+  <img src="Champion Badge.png" alt="GSSoC'24 Champion Badge" width="100" style="margin: 10px;" />
+  <img src="Trailblazer Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" style="margin: 10px;" />
+  <img src="Summit Seeker Badge.png" alt="GSSoC'24  Summit Seeker Badge" width="100" style="margin: 10px;" />
+  <img src="Innovator Bage.png" alt="GSSoC'24 Innovator Badge" width="105" style="margin: 10px;" />
 </div>
 
 <!-- Contribution in Open Source Programs Section -->
-<h2 align="center">Contribution in Open Source Programs</h2>
+<h3 align="center"> Contribution in Open Source Programs </h3>
 <div align="center">
   <img src="https://github.com/ananyag309/ananyag309/blob/main/gssoc.png" alt="GirlScript Summer oF Code" width="100" />
   <img src="https://github.com/ananyag309/ananyag309/blob/main/Ssoc.jpeg" alt="Social Summer of Code" width="100" />
