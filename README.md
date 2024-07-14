@@ -83,7 +83,7 @@
       <strong>GSSoC'24 Summit Seeker Badge</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/ananyag309/ananyag309/blob/main/Innovator%20Badge.png" alt="GSSoC'24 Innovator Badge" width="100" />
+      <img src="Innovator Bage.png" alt="GSSoC'24 Innovator Badge" width="100" />
       <br>
       <strong>GSSoC'24 Innovator Badge</strong>
     </td>
