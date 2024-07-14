@@ -52,17 +52,46 @@
   </tr>
 </table>
 
+<!-- Achievement in Open Source Contributions Section -->
+<h2 align="center">Achievements in Open Source Contributions</h2>
+
+<table align="center">
+  <tr align="center">
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" />
+      <br>
+      <strong>GSSoC'24 Explorer Badge</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/ananyag309/ananyag309/blob/main/Adventurer%20Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" />
+      <br>
+      <strong>GSSoC'24 Adventurer Badge</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="GSSoC'24 Champion Badge" width="100" />
+      <br>
+      <strong>GSSoC'24 Champion Badge</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/ananyag309/ananyag309/blob/main/Trailblazer%20Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" />
+      <br>
+      <strong>GSSoC'24 Trailblazer Badge</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/ananyag309/ananyag309/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="100" />
+      <br>
+      <strong>GSSoC'24 Summit Seeker Badge</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ananyag309/ananyag309/blob/main/Innovator%20Badge.png" alt="GSSoC'24 Innovator Badge" width="100" />
+      <br>
+      <strong>GSSoC'24 Innovator Badge</strong>
+    </td>
+  </tr>
+</table>
 
 <br>
-<h3 align="center"> Badges Earned 🏅 </h3>
-<div align="center">
-  <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" style="margin: 10px;" />
-  <img src="Adventurer Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" style="margin: 10px;" />
-  <img src="Champion Badge.png" alt="GSSoC'24 Champion Badge" width="100" style="margin: 10px;" />
-  <img src="Trailblazer Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" style="margin: 10px;" />
-  <img src="Summit Seeker Badge.png" alt="GSSoC'24  Summit Seeker Badge" width="100" style="margin: 10px;" />
-  <img src="Innovator Bage.png" alt="GSSoC'24 Innovator Badge" width="105" style="margin: 10px;" />
-</div>
+
 
 <!-- Connect with Me Section -->
 <h2 align="center">Connect with Me</h2>
