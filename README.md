@@ -31,6 +31,28 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ananyag309&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 </div>
 
+## :zap: Open Source Programs 
+
+<table align="center">
+  <tr align="center">
+      <td style="border-right: 1px solid #eeeeef;" align="center">
+      <a href="">
+        <img src="https://github.com/ananyag309/ananyag309/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="100" />
+        <br>
+        <strong>GirlScript Summer of Code</strong>
+      </a>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <a href="">
+        <img src="https://github.com/ananyag309/ananyag309/blob/main/Ssoc.jpeg" alt="Social Summer of Code" width="100" />
+        <br>
+        <strong>Social Summer of Code</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 <br>
 <h3 align="center"> Badges Earned 🏅 </h3>
 <div align="center">
@@ -40,13 +62,6 @@
   <img src="Trailblazer Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" style="margin: 10px;" />
   <img src="Summit Seeker Badge.png" alt="GSSoC'24  Summit Seeker Badge" width="100" style="margin: 10px;" />
   <img src="Innovator Bage.png" alt="GSSoC'24 Innovator Badge" width="105" style="margin: 10px;" />
-</div>
-
-<!-- Contribution in Open Source Programs Section -->
-<h3 align="center"> Contribution in Open Source Programs </h3>
-<div align="center">
-  <img src="https://github.com/ananyag309/ananyag309/blob/main/gssoc.png" alt="GirlScript Summer oF Code" width="100" />
-  <img src="https://github.com/ananyag309/ananyag309/blob/main/Ssoc.jpeg" alt="Social Summer of Code" width="100" />
 </div>
 
 <!-- Connect with Me Section -->
