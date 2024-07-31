@@ -125,7 +125,14 @@
     <br>
     <strong>GSSoC'24 Conqueror Badge</strong>
     </td>
+     <td style="border-right: 1px solid #eeeeef;" align="center">
+    <img src="Conqueror Badge.png" alt="GSSoC'24 Postman Challenge Badge" width="100" />
+    <br>
+    <strong>Postman API Badge</strong>
     </td>
+
+   
+  </td>
   </tr>
 </table>
 
