@@ -64,26 +64,23 @@
 </table>
 <br>
 
+
 ## :zap: Open Source Programs 
 
 <table align="center">
   <tr align="center">
-      <td style="border-right: 1px solid #eeeeef;" align="center">
+    <td style="border-right: 1px solid #eeeeef;" align="center">
       <a href="">
         <img src="https://github.com/ananyag309/ananyag309/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="100" />
         <br>
         <strong>GirlScript Summer of Code</strong>
       </a>
-    </td>
-    <td style="border-right: 1px solid #eeeeef;" align="center">
-      <a href="">
-        <img src="https://github.com/ananyag309/ananyag309/blob/main/Ssoc.jpeg" alt="Social Summer of Code" width="100" />
-        <br>
-        <strong>Social Summer of Code</strong>
-      </a>
+      <br>
+      <span>🏅 Ranked 17th</span>
     </td>
   </tr>
 </table>
+
 
 <!-- Achievement in Open Source Contributions Section -->
 <h2 align="center">Achievements in Open Source Contributions</h2>
@@ -91,45 +88,48 @@
 <table align="center">
   <tr align="center">
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" />
+      <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" height="100" />
       <br>
       <strong>GSSoC'24 Explorer Badge</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/ananyag309/ananyag309/blob/main/Adventurer%20Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" />
+      <img src="https://github.com/ananyag309/ananyag309/blob/main/Adventurer%20Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" height="100" />
       <br>
       <strong>GSSoC'24 Adventurer Badge</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="GSSoC'24 Champion Badge" width="100" />
+      <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="GSSoC'24 Champion Badge" width="100" height="100" />
       <br>
       <strong>GSSoC'24 Champion Badge</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/ananyag309/ananyag309/blob/main/Trailblazer%20Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" />
+      <img src="https://github.com/ananyag309/ananyag309/blob/main/Trailblazer%20Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" height="100" />
       <br>
       <strong>GSSoC'24 Trailblazer Badge</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/ananyag309/ananyag309/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="100" />
+      <img src="https://github.com/ananyag309/ananyag309/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="100" height="100" />
       <br>
-      <strong>GSSoC'24 Summit Seeker Badge</strong>
+      <strong>GSSoC'24 Summit-Seeker Badge</strong>
     </td>
     <td align="center">
-      <img src="Innovator Bage.png" alt="GSSoC'24 Innovator Badge" width="100" />
+      <img src="Innovator Bage.png" alt="GSSoC'24 Innovator Badge" width="100" height="100" />
       <br>
       <strong>GSSoC'24 Innovator Badge</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
-    <img src="Conqueror Badge.png" alt="GSSoC'24 Conqueror Badge" width="100" />
+    <img src="Conqueror Badge.png" alt="GSSoC'24 Conqueror Badge" width="100" height="100" />
     <br>
     <strong>GSSoC'24 Conqueror Badge</strong>
     </td>
-     <td style="border-right: 1px solid #eeeeef;" align="center">
-    <img src="Postman - Postman API Fundamentals Student Expert - 2024-07-29 (1).png" alt="GSSoC'24 Postman Challenge Badge" width="100" />
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+    <img src="Postman - Postman API Fundamentals Student Expert - 2024-07-29 (1).png" alt="GSSoC'24 Postman Challenge Badge" width="100" height="100" />
     <br>
     <strong>Postman API Fundamentals Student Expert</strong>
     </td>
+  </tr>
+</table>
+
 
    
   </td>
