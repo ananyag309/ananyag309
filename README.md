@@ -139,6 +139,8 @@
   </table>
 </div>
 
+<br>
+
 <div align="center">
   <table>
     <tr align="center">
@@ -189,7 +191,7 @@
               <strong>Summit Seeker Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="Innovator%20Badge.png" alt="Innovator Badge" width="80" />
+              <img src="Innovator Bage.png" alt="Innovator Badge" width="80" />
               <br>
               <strong>Innovator Badge</strong>
             </td>
