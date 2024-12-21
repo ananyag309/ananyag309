@@ -210,7 +210,7 @@
           </tr>
           <tr align="center">
             <td colspan="4" style="padding: 10px;">
-              <img src="Web3HackBadge.png" alt="Web3 Hack Badge" width="80" />
+              <img src="web3hack.png" alt="Web3 Hack Badge" width="80" />
               <br>
               <strong>Web3 Hack Badge</strong>
             </td>
